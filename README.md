@@ -7,10 +7,13 @@ It highlights goal scoring, creativity, efficiency, positional workload, and bal
 The analysis combines traditional stats like Goals and Assists with advanced metrics such as Expected Goals (xG) and Progressive Actions, giving a multi‑dimensional view of player impact.
 
 📊 Key Visualizations
+
 🔥 Top 10 Goal Scorers
+
 Displays the most prolific players in front of goal for the season.
 
 🎯 Top 10 Assist Providers
+
 Highlights the top creative players contributing the most assists.
 
 📈 Players with Highest Expected Goals (xG)
@@ -20,12 +23,15 @@ Ranks players based on the quality of their scoring opportunities.
 Compares goal contributions across different player age groups.
 
 ⏱ Minutes Played by Position
+
 Shows the distribution of playing time across different positions.
 
 🚀 Progressive Passes, Carries & Runs
+
 Reveals players who most effectively progressed the ball during play.
 
 🎯 Project Objectives
+
 Identify standout performers of the season.
 
 Compare goal scoring vs. chance creation efficiency.
@@ -37,6 +43,7 @@ Examine positional contributions to overall team play.
 Highlight ball progression trends across players.
 
 🛠 Tools & Libraries Used
+
 Python – Main analysis language
 
 Pandas – Data cleaning & manipulation
@@ -45,18 +52,15 @@ Matplotlib – Static visualizations
 
 Seaborn – Enhanced statistical plots
 
-Plotly – Interactive visualizations (optional)
-
-NumPy – Numerical computations
 
 📌 Dataset
-Source: Premier League 2023–24 player statistics (publicly available).
 
-Contents: Player names, positions, minutes played, goals, assists, expected goals (xG), progressive passes, carries, and runs.
+Source: Premier League 2023–24 player dataset (kaggle).
 
 Processing: Data cleaned, processed, and transformed before visualization.
 
 📈 Insights & Findings
+
 Top scorers demonstrated high consistency and efficiency in front of goal.
 
 Some players overperformed or underperformed their xG significantly.
@@ -68,6 +72,7 @@ Midfielders dominated progressive passing and carrying statistics.
 Defensive positions showed low variation in minutes compared to forwards.
 
 ✅ Conclusion
+
 This project offers a holistic, data‑driven view of the 2023–24 Premier League season, showcasing:
 
 Who scored and created the most.
