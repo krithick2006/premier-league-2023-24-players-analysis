@@ -1,60 +1,90 @@
 # Premier League 2023–24 Player Performance Analysis
-⚽** Premier League 2023–24 Player Performance Analysis**
+⚽ Premier League 2023–24 Player Performance Analysis
+📌 Overview
+This project provides a comprehensive data exploration and visualization of the 2023–24 Premier League season, focusing on player performance metrics.
+It highlights goal scoring, creativity, efficiency, positional workload, and ball progression through a series of clear and engaging visualizations.
 
-📌**Overview**
-An interactive data exploration and visualization of the Premier League 2023–24 season, focusing on key player statistics. The project uses engaging visualizations to highlight goal scoring, creativity, efficiency, positional workload, and ball progression.
+The analysis combines traditional stats like Goals and Assists with advanced metrics such as Expected Goals (xG) and Progressive Actions, giving a multi‑dimensional view of player impact.
 
-📊**Key Visualizations**
+📊 Key Visualizations
+🔥 Top 10 Goal Scorers
+Displays the most prolific players in front of goal for the season.
 
-🔥** Top 10 Goal Scorers**
-Shows the most prolific players in front of goal.
+🎯 Top 10 Assist Providers
+Highlights the top creative players contributing the most assists.
 
-🎯** Top 10 Assist Providers**
-Highlights the best playmakers and creators.
+📈 Players with Highest Expected Goals (xG)
+Ranks players based on the quality of their scoring opportunities.
 
-📈**Highest Expected Goals (xG)**
-Identifies players with the most high-quality chances.
+👶👴 Goals by Age Category
+Compares goal contributions across different player age groups.
 
- **Goals by Age Category**
-Compares scoring contribution by age group.
+⏱ Minutes Played by Position
+Shows the distribution of playing time across different positions.
 
-⏱** Minutes Played by Position**
-Analyzes workload distribution across positions.
+🚀 Progressive Passes, Carries & Runs
+Reveals players who most effectively progressed the ball during play.
 
-🚀**Progressive Passes, Carries & Runs**
-Reveals key players driving ball progression.
+🎯 Project Objectives
+Identify standout performers of the season.
 
-🎯**Purpose**
-To combine statistics and visual storytelling to uncover trends and insights:
+Compare goal scoring vs. chance creation efficiency.
 
-Who were the most efficient scorers?
+Understand the role of age and experience in performance.
 
-Which age groups contributed the most?
+Examine positional contributions to overall team play.
 
-Which positions played the most minutes?
+Highlight ball progression trends across players.
 
-Who advanced play most effectively?
+🛠 Tools & Libraries Used
+Python – Main analysis language
 
-🛠** Tools & Libraries**
-Python – Data processing & analysis
+Pandas – Data cleaning & manipulation
 
-Pandas – Data manipulation
+Matplotlib – Static visualizations
 
-Matplotlib / Seaborn – Static visualizations
+Seaborn – Enhanced statistical plots
 
+Plotly – Interactive visualizations (optional)
 
-📌**Insights**
-Top scorers & assist leaders show clear dominance in attacking output.
+NumPy – Numerical computations
 
-xG analysis reveals overperformers and underperformers.
+📌 Dataset
+Source: Premier League 2023–24 player statistics (publicly available).
 
-Younger players made significant goal contributions in certain teams.
+Contents: Player names, positions, minutes played, goals, assists, expected goals (xG), progressive passes, carries, and runs.
 
-Midfielders logged high progressive actions, showing their role in transitions.
+Processing: Data cleaned, processed, and transformed before visualization.
 
-✅** Conclusion**
+📈 Insights & Findings
+Top scorers demonstrated high consistency and efficiency in front of goal.
 
-This project provides a multi-dimensional view of the Premier League 2023–24 season. By combining traditional stats with advanced metrics, it offers a complete perspective on player impact, creativity, and tactical roles. Perfect for football analysts, fans, and data enthusiasts alike.
+Some players overperformed or underperformed their xG significantly.
+
+Younger players in some teams contributed heavily to goal scoring.
+
+Midfielders dominated progressive passing and carrying statistics.
+
+Defensive positions showed low variation in minutes compared to forwards.
+
+✅ Conclusion
+This project offers a holistic, data‑driven view of the 2023–24 Premier League season, showcasing:
+
+Who scored and created the most.
+
+How age and position affected performance.
+
+Which players contributed most in progressing the ball.
+
+The combination of visual storytelling and statistical analysis makes it valuable for:
+
+Football analysts
+
+Coaches & scouts
+
+Fans interested in in‑depth season performance trends
+
+Data visualization enthusiasts
 
 
 This project provides a multi-dimensional view of the Premier League 2023–24 season. By combining traditional stats with advanced metrics, it offers a complete perspective on player impact, creativity, and tactical roles. Perfect for football analysts, fans, and data enthusiasts alike.
