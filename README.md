@@ -42,7 +42,7 @@ Pandas – Data manipulation
 Matplotlib / Seaborn – Static visualizations
 
 
-📌 **Insights**
+📌**Insights**
 Top scorers & assist leaders show clear dominance in attacking output.
 
 xG analysis reveals overperformers and underperformers.
