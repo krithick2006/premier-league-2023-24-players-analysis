@@ -5,6 +5,7 @@ This project presents a comprehensive data exploration and visualization of the 
 The dataset includes detailed player statistics from the 2023–24 season, which were processed and visualized to extract actionable insights. The findings are displayed through intuitive and engaging visualizations that make it easier to interpret complex statistical information.
 
 ****Key Visualizations & Insights****
+
 **1. Top 10 Goal Scorers**
 This plot showcases the players who scored the most goals during the season. It allows for quick identification of the most prolific forwards and attacking midfielders, showing their dominance in front of goal. This visualization also provides context for comparing efficiency between high-scoring players.
 
