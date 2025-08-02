@@ -53,8 +53,7 @@ To combine **statistics and visual storytelling** to uncover trends and insights
 * **Python** – Data processing & analysis
 * **Pandas** – Data manipulation
 * **Matplotlib / Seaborn** – Static visualizations
-* **Plotly** – Interactive visualizations
-* **NumPy** – Numerical computations
+
 
 ---
 
